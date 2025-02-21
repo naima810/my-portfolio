@@ -49,6 +49,8 @@ nav a:hover{
     border-radius: 20px;
     border: none;
     width: fit-content;
+}
+.cv-a{
     margin-right:1rem;
 }
 .cv:hover{
