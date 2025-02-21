@@ -50,9 +50,6 @@ nav a:hover{
     border: none;
     width: fit-content;
 }
-.cv-a{
-    margin-right:1rem;
-}
 .cv:hover{
     background-color: rgb(137 126 218);
     color:rgb(33, 33, 81) ;
